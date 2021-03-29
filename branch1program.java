@@ -1,5 +1,5 @@
 class program {
   public static void main (String[] args) {
-    System.out.println("Welcome to my branch #2 program.");
+    System.out.println("Welcome to my branch #1 program.");
   }
 }
