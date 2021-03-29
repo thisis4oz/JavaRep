@@ -1,4 +1,4 @@
-class program {
+class branch1program {
   public static void main (String[] args) {
     System.out.println("Welcome to my branch #1 program.");
   }
